@@ -1,0 +1,15 @@
+{
+  "name": "幸运四叶草",
+  "short_name": "幸运四叶草",
+  "start_url": "muyu.html",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#4CAF50",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
